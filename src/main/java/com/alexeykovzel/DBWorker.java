@@ -1,3 +1,5 @@
+package com.alexeykovzel;
+
 import java.sql.*;
 
 class DBWorker {

@@ -1,3 +1,5 @@
+package com.alexeykovzel;
+
 import com.google.api.services.gmail.model.Message;
 import org.apache.commons.lang3.RandomStringUtils;
 
